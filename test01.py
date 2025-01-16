@@ -4,3 +4,4 @@ print("test03") #v0.7
 print("test04") #v0.8
 print("test04")
 print("test04") #v0.9
+print("test04") #v1.0
